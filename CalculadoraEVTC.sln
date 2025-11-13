@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraEVTC", "CalculadoraEVTC.csproj", "{AB9FA9DA-6A7F-4C5F-9E55-86A0523D07AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9FA9DA-6A7F-4C5F-9E55-86A0523D07AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9FA9DA-6A7F-4C5F-9E55-86A0523D07AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9FA9DA-6A7F-4C5F-9E55-86A0523D07AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9FA9DA-6A7F-4C5F-9E55-86A0523D07AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B02E6DA8-0411-4D0C-B913-8707A92E9F1E}
+	EndGlobalSection
+EndGlobal
