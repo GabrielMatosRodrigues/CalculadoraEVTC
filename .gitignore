@@ -426,3 +426,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/calculadora.db-shm
+/calculadora.db-wal
